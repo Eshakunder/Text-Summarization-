@@ -1,5 +1,5 @@
 # End to end Text Summarization-Project
-
+This Repository contains end to end text summarization project implemented with modular coding.
 ## Workflows
 
 1. Update config.yaml 
